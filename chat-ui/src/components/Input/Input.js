@@ -34,6 +34,7 @@ const Input = ({ onSendMessage }) => {
             <Button variant="contained" color="primary" onClick={onSubmit}>
                 Send
             </Button>
+
         </div>
     );
 };
